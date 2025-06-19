@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x565da052294FB9fDdF242b269347c0eb26290A8d",
+  "SCAN_LINK": "https://polygonscan.com/address/0x565da052294fb9fddf242b269347c0eb26290a8d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Sand Dune Man RT",
+  "SYMBOL": "SDMRT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 111000000000000000000,
+  "DISPLAY_COST": 111,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sanddunemanroyaltoken",
+  "SHOW_BACKGROUND": true
+}
